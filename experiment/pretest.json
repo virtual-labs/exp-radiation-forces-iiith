@@ -1,0 +1,38 @@
+[
+{"question":"1. The force applied on a single charge in an electromagnetic field is known as the _Lorentz force.", 
+"answers": {
+             "a":"True", 
+             "b":"False"
+               },
+"correctAnswer": "a"},
+
+{"question":"2. The beam waist consists of weak electric field gradient.",
+"answers": {
+             "a": "True",
+             "b": "False"
+            },
+"correctAnswer":"a"},
+
+{"question":"3. Optical tweezers setup the incoming light comes from a laser which has a 'Dirac Delta intensity profile'", 
+"answers": {
+             "a":"True", 
+             "b":"False" 
+            },
+"correctAnswer": "b"},
+
+
+{"question":"4. If the particle is displaced from the center of the beam, , the particle has a net force returning it to the center of the trap.", 
+"answers": {
+             "a": "True", 
+             "b": "False" 
+            },
+"correctAnswer": "a"},
+
+{"question":"5. In optics, a Gaussian beam is a beam of electromagnetic radiation whose transverse electric field and intensity (irradiance) distributions are described by Gaussian function.", 
+"answers": {
+             "a":"True", 
+             "b":"False"
+            },
+"correctAnswer": "b"} 			  
+
+]
