@@ -1,0 +1,1 @@
+- To examine the force acting on the bead trapped by a laser, and to examine the most stable point on the electromagnetic field.
