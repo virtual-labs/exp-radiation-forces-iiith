@@ -1,0 +1,22 @@
+[
+{"question":"1. The force applied on a single charge in an electromagnetic field is known as the _Lorentz force.", 
+"answers": {
+             "a":"True", 
+             "b":"False"
+               },
+"correctAnswer": "a"},
+
+{"question":"2. The beam waist consists of weak electric field gradient.",
+"answers": {
+             "a": "True",
+             "b": "False"
+            },
+"correctAnswer":"a"},
+
+{"question":"3. Optical tweezers setup the incoming light comes from a laser which has a 'Dirac Delta intensity profile'", 
+"answers": {
+             "a":"True", 
+             "b":"False" 
+            },
+"correctAnswer": "b"}
+]
